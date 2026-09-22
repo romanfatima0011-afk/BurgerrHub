@@ -1,0 +1,8 @@
+{
+  "name": "Remix BUrgerHub — Fire-Grilled Burgers \u0026 Bold Flavor",
+  "description": "Handcrafted burgers, loaded sides, crispy chicken and indulgent desserts made fresh to order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
